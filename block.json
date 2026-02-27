@@ -1,0 +1,14 @@
+{
+  "apiVersion": 2,
+  "name": "rm-blocks/hero-animation",
+  "title": "Animated Hero Section",
+  "category": "design",
+  "icon": "superhero",
+  "description": "High-performance hero section with GSAP animations.",
+  "attributes": {
+    "title": { "type": "string", "default": "Building the Future of Web3" },
+    "description": { "type": "string", "default": "Custom WordPress engineering with a focus on performance." }
+  },
+  "textdomain": "rm-blocks",
+  "editorScript": "file:./index.js"
+}
